@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+  background-color: #ffffffaa;
+  backdrop-filter: blur(10px);
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
